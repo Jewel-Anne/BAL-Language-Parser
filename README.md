@@ -5,10 +5,10 @@ BAL was developed by a group of 3rd-year students from the Polytechnic Universit
 
 In creating this program, the group decided to use Balbal because in general, Filipinos are fond of inventing words and borrowing foreign terms, so applying this in programming can help novice Filipino programmers enjoy coding. By using this kind of language, the group can also help beginners to not be overwhelmed by the complexity of the programming. They also decided to use Balbal because they believe that we can easily familiarize ourselves with programming concepts if we associate them with words that we usually encounter in our daily lives. 
 
-## Created by
-- Balmadrid, Vince Earl D.
-- Campo, Jeslen C.
-- Gero, Michaella P.
-- Pagcanlungan, Evitha A.
-- Reyes, Jewel Anne A.
-- Velarde, Mia Jamille E.
+## Authors
+- **[Balmadrid, Vince Earl D.]()**
+- **[Campo, Jeslen C.](https://github.com/Camps07)**
+- **[Gero, Michaella P.](https://github.com/xamikey)**
+- **[Pagcanlungan, Evitha A.](https://github.com/eviitamin)**
+- **[Reyes, Jewel Anne A.](https://github.com/Jewel-Anne)**
+- **[Velarde, Mia Jamille E.](https://github.com/miajamjam)**
