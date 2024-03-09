@@ -1,0 +1,40 @@
+//Output Statement
+int a = 0;
+	go("hello" + a);
+	go("hello" + z);
+//input Statement
+int b = 0;
+	catch(b);
+	catch(x);
+//assignment statement
+a = 10;
+a = 1.1;
+q = 0;
+//Condition Statement
+if(a == 1){
+}
+if(y == 16){
+}
+if(a == 10.1){
+}
+//Iterative Statement
+do{
+}while(a != 3);
+do{
+}while(z != 3);
+do{
+}while(a != 25.1);
+//Declaration Statement
+float c = 10.0;
+String d = 27;
+int e = 20;
+int e = 10;
+//Additional Semantic Error
+int f;
+int g;
+g = f;
+if(a = 34){
+}
+do{
+}while(a = 2);
+int @aa = 10;
