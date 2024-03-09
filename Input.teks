@@ -1,0 +1,40 @@
+~Output Statement
+	giginteger a = 0;
+		bounce("hello" + a);
+		bounce("hello" + z);
+~input Statement
+	giginteger b = 0;
+		getchi(b);
+		getchi(x);
+~assignment statement
+	a = 10;
+	a = 1.1;
+	q = 0;
+~Condition Statement
+	paano_kung(a == 1){
+	}
+	paano_kung(y == 16){
+	}
+	paano_kung(a == 10.1){
+	}
+~Iterative Statement
+	nugagawen{
+	}waylalu(a != 3);
+	nugagawen{
+	}waylalu(z != 3);
+	nugagawen{
+	}waylalu(a != 25.1);
+~Declaration Statement
+	mcfloat c = 10.0;
+	istring d = 27;
+	giginteger e = 20;
+	giginteger e = 10;
+~Additional Error
+	int f;
+	int #g
+	g = f;
+	if(a = 34){
+	}
+	do{
+	}while(a = 2);
+	float @aa = 10;
